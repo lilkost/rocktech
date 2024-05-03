@@ -1,5 +1,5 @@
 <h1>
-  ROCKTECH
+  <span style="color: #FF6B13;">ROCK</span><span style="color: #904120;">TECH</span>
 </h1>
 <ul>
   <li>
